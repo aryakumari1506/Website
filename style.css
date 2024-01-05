@@ -1,0 +1,61 @@
+body {
+    font-family: 'Tahoma', serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("purple back.png"); 
+    background-size: cover;
+    background-position: top;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    body {
+    background-image: url("phoneback.png");
+    }
+}
+
+header {
+    font-family: 'Tahoma', serif;
+    background-color: #9a51bc; 
+    padding: 20px;
+    color: white;
+    font-size: 24px;
+}
+
+main {
+    padding: 20px;
+    color: #b87fd9; 
+}
+
+img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: rgba(40, 38, 38, 0.998); 
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #b87fd9; 
+    font-weight: bold;
+}
+
+a:hover {
+    color: #b87fd9; 
+}
+
+footer {
+    font-family: 'Tahoma', serif;
+    background-color: #9a51bc; 
+    color: white;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+    
