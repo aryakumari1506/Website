@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-image: url("pc.png"); 
     background-size: cover;
-    background-position: top;
+    background-position: center;
     text-align: center;
 }
 
