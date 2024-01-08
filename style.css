@@ -16,7 +16,7 @@ body {
 
 header {
     font-family: 'Tahoma', serif;
-    background-color: #8a7968; 
+    background-color: #593d3b; 
     padding: 15px;
     color: white;
     font-size: 24px;
@@ -52,7 +52,7 @@ a:hover {
 
 footer {
     font-family: 'Tahoma', serif;
-    background-color: #8a7968; 
+    background-color: #593d3b; 
     color: white;
     padding: 3px;
     position: fixed;
