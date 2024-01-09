@@ -34,6 +34,10 @@ main {
     margin-bottom: 20px;
 }
 
+img {
+    border: 2px solid rgba(0, 0, 0, 0.759);
+  }
+
 p {
     font-size: 18px;
     color: rgba(40, 38, 38, 0.998); 
