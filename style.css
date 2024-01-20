@@ -28,11 +28,9 @@ main {
     color: #593d3b; 
 }
 
-#profile {
-    border-radius: 50%;
-    max-width: 150px;
-    margin-bottom: 20px;
-    border: none;
+#intro{
+    color: #593d3b;
+    font-size: 20px;
 }
 
 img {
